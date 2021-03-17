@@ -9,46 +9,16 @@
 **********************************************************************************/
 
 @font-face {
-	font-family: 'HelveticaNeue-light';
-	src: url(/helvetica/HelveticaNeueLight.otf);
-	font-weight: normal;
-	font-style: normal;
-  }
-
-  @font-face {
-	font-family: 'HelveticaNeue-ultraLight';
-	src: url(/helvetica/HelveticaNeueUltaLight.otf);
+	font-family: 'StyreneAWeb-Thin';
+	src: url(/styrene/StyreneAWeb-Thin.ttf);
 	font-weight: lighter;
 	font-style: normal;
   }
 
   @font-face {
-	font-family: 'HelveticaNeue-bold';
-	src: url(/helvetica/HelveticaNeueBold.otf);
-	
+	font-family: 'StyreneAWeb-Regular';
+	src: url(/styrene/StyreneAWeb-Regular.ttf);
+	font-weight: normal;
+	font-style: normal;
   }
 
-  /* @media only screen and (min-width: 400px){
-
-	#fotoMaro{
-		max-width: 35%;
-        margin-left: 30%;
-	}
-
-}
-
-@media only screen and (max-width: 400px){
-
-	#fotoMaro{
-		max-width: 70%;
-        margin-left: 30%;
-	}
-
-} */
-
-@media screen and (min-width: 375px) and (max-width: 479px){
-
-	#fotoMaro{
-		width: 40%;
-	}
- }
