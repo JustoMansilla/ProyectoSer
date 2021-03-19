@@ -22,3 +22,21 @@
 	font-style: normal;
   }
 
+
+  @media screen and (min-width: 375px) and (max-width: 479px){
+
+	#brandstudio{
+		width: 60%;
+	}
+ }
+
+
+ @media screen and (min-width: 479px){
+
+	#brandstudio{
+		width: 20%;
+		position: absolute;
+		bottom: -20%;
+		left: 40%;
+	}
+ }
