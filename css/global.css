@@ -7049,7 +7049,7 @@ ul.portfolio_grid li .image_frame {
 }
 .testimonials_slider .testimonials_slider_ul li .bq_wrapper {
 	background: rgba(0, 0, 0, 0.02);
-	padding: 30px 40px 10px;
+	padding: 30px 0px 10px;
 	margin-bottom: 20px
 }
 .testimonials_slider .testimonials_slider_ul li .hr_dots {
@@ -7096,7 +7096,7 @@ ul.portfolio_grid li .image_frame {
 	text-align: center
 }
 .testimonials_slider.single-photo .testimonials_slider_ul li .bq_wrapper {
-	margin: 0 6% 20px
+	margin: 0 0% 20px
 }
 .testimonials_slider.single-photo .testimonials_slider_ul li .single-photo-img {
 	display: block;
